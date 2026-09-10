@@ -37,7 +37,6 @@ I build secure, high-performance web applications and applied AI/Computer Vision
 | :--- | :--- | :--- | :--- |
 | **[MedSafe](https://github.com/nithinrv07/MedSafe-Final-)** | Sovereign medical locker with client-side 2048-bit RSA/AES-256 zero-knowledge encryption, Gemini 2.0 Flash OCR pipeline, and drug contraindication checking. | `React 19` `TypeScript` `Express` `Firebase` `Gemini API` | [Repository](https://github.com/nithinrv07/MedSafe-Final-) |
 | **[Masked Facial Recognition](https://github.com/nithinrv07)** | Real-time biometric authentication pipeline capable of identifying individuals under occluded conditions (face masks). *Top 2 @ Innovation Expo 2025*. | `Python` `PyTorch` `OpenCV` `Vector DB` | [Details](https://github.com/nithinrv07) |
-| **[Cognetix](https://github.com/nithinrv07/Cognetix)** | Organizational Knowledge Graph and intelligent reasoning interface powered by Gemini. | `TypeScript` `Google AI Studio` `Node.js` | [Repository](https://github.com/nithinrv07/Cognetix) |
 | **[GDG CIT Web Platform](https://github.com/nithinrv07)** | Official community platform for campus Google Developer Groups featuring dynamic event registrations and student member dashboards. | `Next.js` `React` `TailwindCSS` `Firebase` | [Details](https://github.com/nithinrv07) |
 
 ---
